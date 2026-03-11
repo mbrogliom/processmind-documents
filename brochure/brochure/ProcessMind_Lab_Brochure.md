@@ -60,7 +60,7 @@ Typical use cases:
 
 ## Founder
 
-Marco Montani  
+Marco Broglio Montani  
 AI Software Architect  
 Business Process Automation Specialist
 
