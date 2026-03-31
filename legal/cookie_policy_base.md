@@ -1,95 +1,83 @@
-# Privacy Policy – Base Draft
+# Cookie Policy – Base Draft
 
 > Testo base da completare prima della pubblicazione del sito.
 
-## 1. Titolare del trattamento
+## 1. Cosa sono i cookie
 
-Il Titolare del trattamento dei dati personali è:
+I cookie sono piccoli file di testo che i siti visitati inviano al dispositivo dell’utente per migliorare la navigazione, memorizzare preferenze o raccogliere informazioni tecniche e statistiche.
 
-- **Nome / Ragione sociale:** [INSERIRE]
-- **Indirizzo:** [INSERIRE]
-- **Email:** [INSERIRE]
-- **PEC:** [INSERIRE]
-- **P. IVA / Codice Fiscale:** [INSERIRE]
+## 2. Tipologie di cookie utilizzate
 
-## 2. Tipologie di dati trattati
+Il sito può utilizzare le seguenti categorie di cookie:
 
-Attraverso il sito possono essere trattati:
+### Cookie tecnici
+Necessari al funzionamento del sito, alla navigazione e alla sicurezza.
 
-- dati tecnici di navigazione;
-- indirizzi IP e dati tecnici necessari al funzionamento del sito;
-- dati eventualmente comunicati volontariamente dall’utente tramite email o altri recapiti pubblicati sul sito;
-- eventuali dati raccolti tramite strumenti statistici o servizi terzi, se presenti.
+### Cookie analytics
+Utilizzati per raccogliere informazioni statistiche in forma aggregata, ove presenti e correttamente configurati.
 
-## 3. Finalità del trattamento
+### Cookie di terze parti
+Cookie eventualmente installati da servizi esterni integrati nel sito.
 
-I dati possono essere trattati per le seguenti finalità:
+### Cookie di profilazione o marketing
+Eventuali cookie non tecnici, da utilizzare solo previo consenso, se effettivamente presenti.
 
-- consentire la navigazione e il corretto funzionamento del sito;
-- garantire la sicurezza e la protezione del sito;
-- rispondere a richieste di informazioni o contatto;
-- adempiere a obblighi di legge o regolamentari;
-- gestire statistiche tecniche o aggregate, se presenti.
+## 3. Base giuridica
 
-## 4. Base giuridica del trattamento
+I cookie tecnici non richiedono consenso preventivo.  
+I cookie non tecnici, inclusi quelli di profilazione o marketing, richiedono il consenso dell’utente prima dell’installazione.
 
-Il trattamento si basa, a seconda dei casi, su:
+## 4. Gestione delle preferenze
 
-- esecuzione di misure precontrattuali richieste dall’interessato;
-- adempimento di obblighi legali;
-- legittimo interesse del titolare;
-- consenso dell’interessato, ove richiesto.
+L’utente può gestire le preferenze attraverso:
 
-## 5. Modalità di trattamento
+- l’eventuale banner cookie presente sul sito;
+- le impostazioni del proprio browser.
 
-I dati sono trattati con strumenti informatici e telematici, con misure tecniche e organizzative adeguate a garantirne sicurezza, riservatezza e integrità.
+## 5. Elenco dei cookie
 
-## 6. Conservazione dei dati
+Prima della pubblicazione del sito va inserita una tabella con i cookie realmente utilizzati, specificando:
 
-I dati sono conservati per il tempo strettamente necessario al raggiungimento delle finalità sopra indicate e, ove necessario, per il periodo previsto dalla normativa applicabile.
+- nome del cookie;
+- fornitore;
+- finalità;
+- durata;
+- tipologia.
 
-## 7. Comunicazione dei dati
+### Tabella da completare
 
-I dati possono essere trattati da soggetti terzi che supportano il titolare nella gestione del sito e dei servizi connessi, quali ad esempio:
+| Nome cookie | Fornitore | Finalità | Durata | Tipologia |
+|------------|-----------|----------|--------|-----------|
+| [INSERIRE] | [INSERIRE] | [INSERIRE] | [INSERIRE] | [INSERIRE] |
 
-- provider hosting;
-- servizi email;
-- fornitori tecnici;
-- eventuali strumenti statistici o di sicurezza.
+## 6. Disabilitazione dei cookie
 
-Tali soggetti, ove necessario, saranno nominati responsabili del trattamento.
+L’utente può bloccare o eliminare i cookie tramite le impostazioni del browser.  
+La disabilitazione dei cookie tecnici potrebbe compromettere alcune funzionalità del sito.
 
-## 8. Trasferimento dei dati verso Paesi extra UE
+## 7. Cookie di terze parti
 
-Qualora alcuni fornitori comportino trasferimenti di dati verso Paesi extra UE, tali trasferimenti avverranno nel rispetto delle garanzie previste dalla normativa vigente.
+Se il sito utilizza servizi esterni come:
 
-## 9. Diritti dell’interessato
+- mappe;
+- video incorporati;
+- font esterni;
+- strumenti statistici;
+- plugin social;
 
-L’interessato può esercitare i diritti previsti dagli articoli 15 e seguenti del Regolamento UE 2016/679, tra cui:
+tali servizi potrebbero installare cookie autonomi. In questo caso è opportuno inserire i link alle relative informative.
 
-- accesso ai dati;
-- rettifica;
-- cancellazione;
-- limitazione del trattamento;
-- opposizione;
-- portabilità dei dati, nei casi previsti.
+## 8. Aggiornamenti
 
-## 10. Reclamo all’Autorità di controllo
-
-L’interessato ha diritto di proporre reclamo all’Autorità Garante per la protezione dei dati personali.
-
-## 11. Aggiornamenti
-
-La presente informativa può essere aggiornata nel tempo per esigenze normative, organizzative o tecniche.
+La presente Cookie Policy può essere aggiornata nel tempo per modifiche tecniche, organizzative o normative.
 
 ---
 
 ## Dati da completare prima della pubblicazione
 
-- [ ] Nome / Ragione sociale
-- [ ] Indirizzo completo
-- [ ] Email
-- [ ] PEC
-- [ ] P. IVA / Codice Fiscale
-- [ ] Elenco reale dei fornitori tecnici
-- [ ] Eventuali servizi terzi effettivamente presenti sul sito
+- [ ] Elenco reale dei cookie tecnici
+- [ ] Elenco eventuali cookie analytics
+- [ ] Elenco eventuali cookie di terze parti
+- [ ] Elenco eventuali cookie marketing/profilazione
+- [ ] Eventuale piattaforma di cookie banner / consent management
+- [ ] Link alle informative dei servizi terzi utilizzati
